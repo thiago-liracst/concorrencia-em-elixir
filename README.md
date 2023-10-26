@@ -1,21 +1,22 @@
 # Elixirteste
 
-**TODO: Add description**
+**Repositório com a finalidade de disponibilizar os programas desenvolvidos durante o estudo de Concorrência em Elixie**
+
+**Alguns programas utilizam modulos externos que devem ser instalados via Mix**
 
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `elixirteste` to your list of dependencies in `mix.exs`:
+by adding `concorrencia-em-elixir` to your list of dependencies in `mix.exs`:
 
 ```elixir
 def deps do
   [
-    {:elixirteste, "~> 0.1.0"}
+    {:concorrencia-em-elixir, "~> 0.1.0"}
   ]
 end
 ```
 
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/elixirteste>.
+and published on [HexDocs](https://hexdocs.pm).
 
